@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+	<Book>
+		<Id>1</Id>
+		<Name>qwe</Name>
+		<Price>12</Price>
+	</Book>
+	<Book>
+		<Id>2</Id>
+		<Name>asd</Name>
+		<Price>34</Price>
+	</Book>
+</Books>
